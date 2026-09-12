@@ -1,3 +1,7 @@
+
+## Live Power BI Dashboard:
+   https://app.powerbi.com/reportEmbed?reportId=bc05ddf8-7d12-4285-b579-b584b8abc69f&autoAuth=true&ctid=7b8530ea-a880-4154-be2e-8d5f1199ff01
+
 ---
 
 ## Dashboard Preview
